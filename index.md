@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This page is under construction and welcome to come back!
 
 You can use the [editor on GitHub](https://github.com/hemiaocui/hemiaocui.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
